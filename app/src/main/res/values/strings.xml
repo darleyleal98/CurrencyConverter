@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="conversor_de_moeda">Conversor de moeda</string>
+    <string name="digite_um_valor_em_r">Digite um valor em R$</string>
+    <string name="euro">Euro</string>
+    <string name="d_lar">Dólar</string>
+    <string name="resultado">Resultado:</string>
+</resources>
